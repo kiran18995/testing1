@@ -1,0 +1,40 @@
+{
+    "Result": "true",
+    "Reason": "",
+    "data": {
+      "leaveBalance": [
+        {
+          "userId": "3",
+          "userName": "salesman1nik",
+          "leaveType": "Sick Leave",
+          "balance": "10",
+          "availed": "2",
+          "applied": "4"
+        },
+        {
+          "userId": "3",
+          "userName": "salesman1nik",
+          "leaveType": "Earned Leave",
+          "balance": "12",
+          "availed": "3",
+          "applied": "3"
+        },
+        {
+          "userId": "3",
+          "userName": "salesman1nik",
+          "leaveType": "Sick Leave",
+          "balance": "10",
+          "availed": "2",
+          "applied": "4"
+        },
+        {
+          "userId": "3",
+          "userName": "salesman1nik",
+          "leaveType": "Earned Leave",
+          "balance": "12",
+          "availed": "3",
+          "applied": "3"
+        }
+      ]
+    }
+  }
