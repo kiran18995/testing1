@@ -22,18 +22,18 @@
         {
           "userId": "3",
           "userName": "salesman1nik",
-          "leaveType": "Sick Leave",
-          "balance": "10",
-          "availed": "2",
-          "applied": "4"
+          "leaveType": "Casual Leave",
+          "balance": "14",
+          "availed": "4",
+          "applied": "2"
         },
         {
           "userId": "3",
           "userName": "salesman1nik",
           "leaveType": "Earned Leave",
-          "balance": "12",
-          "availed": "3",
-          "applied": "3"
+          "balance": "16",
+          "availed": "5",
+          "applied": "1"
         }
       ]
     }
