@@ -4,7 +4,7 @@
     "data": {
       "leaveBalance": [
         {
-          "userId": "3",
+          "userId": "2",
           "userName": "salesman1nik",
           "leaveType": "Sick Leave",
           "balance": "10",
@@ -12,7 +12,7 @@
           "applied": "4"
         },
         {
-          "userId": "3",
+          "userId": "2",
           "userName": "salesman1nik",
           "leaveType": "Earned Leave",
           "balance": "12",
@@ -20,7 +20,7 @@
           "applied": "3"
         },
         {
-          "userId": "3",
+          "userId": "2",
           "userName": "salesman1nik",
           "leaveType": "Casual Leave",
           "balance": "14",
@@ -28,7 +28,7 @@
           "applied": "2"
         },
         {
-          "userId": "3",
+          "userId": "2",
           "userName": "salesman1nik",
           "leaveType": "Earned Leave",
           "balance": "16",
