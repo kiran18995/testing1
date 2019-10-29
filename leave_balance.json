@@ -1,44 +1,82 @@
 {
-    "Result": "true",
-    "Reason": "",
-    "data": {
-      "leaveBalance": [
-        {
-          "userId": "2",
-          "userName": "salesman1nik",
-          "leaveTypeName": "Sick Leave",
-          "leaveTypeId": "1",
-          "balance": "10",
-          "availed": "2",
-          "applied": "4"
-        },
-        {
-          "userId": "2",
-          "userName": "salesman1nik",
-          "leaveTypeName": "Earned Leave",
-          "leaveTypeId": "1",
-          "balance": "12",
-          "availed": "3",
-          "applied": "3"
-        },
-        {
-          "userId": "2",
-          "userName": "salesman1nik",
-          "leaveTypeName": "Casual Leave",
-          "leaveTypeId": "1",
-          "balance": "14",
-          "availed": "4",
-          "applied": "2"
-        },
-        {
-          "userId": "2",
-          "userName": "salesman1nik",
-          "leaveTypeName": "Earned Leave",
-          "leaveTypeId": "1",
-          "balance": "16",
-          "availed": "5",
-          "applied": "1"
-        }
-      ]
-    }
+  "Result": "true",
+  "Reason": "",
+  "data": {
+    "leaveBalance": [
+      {
+        "userId": "2",
+        "userName": "salesman1nik",
+        "leaveTypeName": "Sick Leave",
+        "leaveTypeId": "1",
+        "balance": "10",
+        "availed": "2",
+        "applied": "4"
+      },
+      {
+        "userId": "2",
+        "userName": "salesman1nik",
+        "leaveTypeName": "Earned Leave",
+        "leaveTypeId": "1",
+        "balance": "12",
+        "availed": "3",
+        "applied": "3"
+      },
+      {
+        "userId": "2",
+        "userName": "salesman1nik",
+        "leaveTypeName": "Casual Leave",
+        "leaveTypeId": "1",
+        "balance": "14",
+        "availed": "4",
+        "applied": "2"
+      },
+      {
+        "userId": "2",
+        "userName": "salesman1nik",
+        "leaveTypeName": "Earned Leave",
+        "leaveTypeId": "1",
+        "balance": "16",
+        "availed": "5",
+        "applied": "1"
+      }
+    ],
+    "leaveHistory": [
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "1",
+        "leaveTypeName": "Sick Leave",
+        "status": "pending",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "feeling sick",
+        "days": "2",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "2",
+        "leaveTypeName": "Casual Leave",
+        "status": "approved",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "I'm going on trip",
+        "days": "2",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "3",
+        "leaveTypeName": "Earned Leave",
+        "status": "rejected",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "need leave",
+        "days": "2",
+        "actionReason": "need a better reason"
+      }
+    ]
   }
+}
