@@ -1,0 +1,84 @@
+{
+    "Result": "true",
+    "Reason": "",
+    "data": [
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "1",
+        "leaveTypeName": "Sick Leave",
+        "leaveTypeId": "1",
+        "status": "",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "",
+        "days": "",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "2",
+        "leaveTypeName": "Earned Leave",
+        "leaveTypeId": "2",
+        "status": "",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "",
+        "days": "",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "1",
+        "leaveTypeName": "Sick Leave",
+        "leaveTypeId": "1",
+        "status": "",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "",
+        "days": "",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "2",
+        "leaveTypeName": "Earned Leave",
+        "leaveTypeId": "2",
+        "status": "",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "",
+        "days": "",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "1",
+        "leaveTypeName": "Sick Leave",
+        "leaveTypeId": "1",
+        "status": "",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "",
+        "days": "",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "2",
+        "leaveTypeName": "Earned Leave",
+        "leaveTypeId": "2",
+        "status": "",
+        "startDate": "10-9-2019",
+        "endDate": "11-9-2019",
+        "reason": "",
+        "days": "",
+        "actionReason": ""
+      }
+    ]
+  }
