@@ -76,6 +76,42 @@
         "reason": "need leave",
         "days": "2",
         "actionReason": "need a better reason"
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "4",
+        "leaveTypeName": "Sick Leave",
+        "status": "pending",
+        "startDate": "16-9-2019",
+        "endDate": "17-9-2019",
+        "reason": "feeling sick",
+        "days": "2",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "5",
+        "leaveTypeName": "Casual Leave",
+        "status": "approved",
+        "startDate": "18-9-2019",
+        "endDate": "19-9-2019",
+        "reason": "I'm going on trip",
+        "days": "2",
+        "actionReason": ""
+      },
+      {
+        "userId": "10",
+        "userName": "testinguser",
+        "userleaveId": "6",
+        "leaveTypeName": "Earned Leave",
+        "status": "rejected",
+        "startDate": "20-9-2019",
+        "endDate": "21-9-2019",
+        "reason": "need leave",
+        "days": "2",
+        "actionReason": "need a better reason"
       }
     ]
   }
